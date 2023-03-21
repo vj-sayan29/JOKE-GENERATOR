@@ -1,4 +1,4 @@
-# project Title
+# project Title 1 min
 
 Simple Website With Joke Generator
 
